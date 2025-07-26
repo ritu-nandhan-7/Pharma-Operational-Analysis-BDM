@@ -42,14 +42,13 @@ All insights presented here are based on sanitized summaries and charts derived 
 - `BDM_Capstone_Presentation.pptx` – Final viva presentation slides
 
 ## 📍 Status
-
-✅ Project Approved  
-🏆 Final Score: **88/100**  
+  
+🏆 Final Score: **80/100**  
 🅰️ Grade: **A**
 
 ---
 
 ### 💬 Contact
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/) or email me at **ritu.nandhan@example.com** to know more about the work or discuss data analytics.
+Feel free to reach out by emailing me at **ritu.nandhan.7@gmail.com** to know more about the work or discuss data analytics.
 
