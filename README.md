@@ -38,7 +38,7 @@ All insights presented here are based on sanitized summaries and charts derived 
 
 ## 📁 Included Files
 
-- `FINAL.pdf` – Full written report of the capstone
+- `Full_Analysis.pdf` – Full written report of the capstone
 - `BDM_Capstone_Presentation.pptx` – Final viva presentation slides
 
 ## 📍 Status
