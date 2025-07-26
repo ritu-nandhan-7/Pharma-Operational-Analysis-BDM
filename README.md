@@ -1,6 +1,11 @@
 ## Description
 # Pharma-Operational-Analysis-BDM
 Data-driven operational analysis project done as part of the Business Data Management Capstone under the IITM Online BS Program. This project involved identifying bottlenecks in packaging and raw material handling at a pharmaceutical company and suggesting improvements based on primary manufacturing data.
+## License
+
+This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
 # Pharma Operational Analysis – BDM Capstone Project
 
